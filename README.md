@@ -1,2 +1,3 @@
-# basic_cli_app
-Just a basic CLI App to get started with Go
+# basic-cli-app
+- Basic  CLI App where you can provide the url and it will download to your local file
+
